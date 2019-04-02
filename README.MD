@@ -18,24 +18,24 @@
 # I can make anything<a name="make-anything" />
 
 ## I can TDD anything<a name="tdd-anything" />
+
 ### What does it mean to be able to TDD anything?
 
-To be able to do this means to have a clear process 
+To be able to do this means to have a clear process, which starts with planning. I have to fully understand what I'm building, before writing any code. This includes:
+1. Write the user stories if they have not been provided already
+2. Create a diagram of the classes, properties and functions needed for the first feature
+3. To follow the red, green refactor cycle:<br>
+`Red phase`
+- Write a failing feature test
+- Write a failing unit test (matching the feature test)<br>
+`Green phase`
+- Write code to make the unit test pass (and not more than that!)
+- Run the tests and check if unit test passes. If not, repeat step 5
+- Repeat steps 4-6 until the feature test passes
+4. Refactor code accordingly (no new functionalities added!)
+5. Run tests again to check that the refactoring did not break the tests
+6. No code should be written unless if it is to make a failing unit test pass
+7. Unit tests should be specific and precise
 
-Planning
-Write the user stories if they have not been provided already
-Create a diagram of the classes, properties and functions needed for the first feature
-To follow the red, green refactor cycle:
-Red phase
-Write a failing feature test
-Write a failing unit test (matching the feature test)
-Green phase
-Write code to make the unit test pass (and not more than that!)
-Run the tests and check if unit test passes. If not, repeat step 5
-Repeat steps 4-6 until the feature test passes
+Throughout Makers I have used a number of different testing frameworks and I am comfortable working with them: RSpec, Capybara, Jasmine, Cypress, etc.
 
-Refactor code accordingly (no new functionalities added!)
-Run tests again to check that the refactoring did not break the tests
-No code should be written unless if it is to make a failing unit test pass
-Tests should be passed using the minimum amout of code
-Unit tests should be specific and precise
