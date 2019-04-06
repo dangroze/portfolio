@@ -62,3 +62,16 @@ This means that I am comfortable solving a problem and translating it into a com
 [Airport challenge in Javascript](https://github.com/dangroze/airport_challenge_js.git)
 
 Airport challenge in JS was the first app I did outside of Ruby. Despite the fact that I've used a new language and testing framework, it was relatively easy to understand. Having applied strict TDD and by following the red-green-refactor process, I felt comfortable in a new environment.
+
+[Chitter challenge](https://github.com/dangroze/chitter_challenge)
+
+In this weekend project I've applied the knowledge acquired during the week to build a functional CRUD app, comprehensively tested.
+
+[Bank tech test](https://github.com/dangroze/bank_tech_test.git)
+
+Here I've used dependency injection and delegation, this was a really interesting mini-challenge, all the requirements have been met using TDD, which can be seen in the frequent commits.
+
+### Feedback
+
+Sam J said on Bowling that this was a good go at the challenge, objects have clear responsibilities and looks well tested.
+
