@@ -48,8 +48,17 @@ Throughout Makers I have used a number of different testing frameworks and I am 
 - Both of these challenges were completed with technologies I have not used before, which demonstrated the power and utility of testing and the red-green-refactor cycle.<br>
 ### Feedback
 
-I've spent the first 4-5 weeks of the course trying to get a grasp on the concepts of TDD, through self learning, getting feedback from colleagues and coaches.
-Katerina's feedback on testing behaviour vs. state in week 3 made testing as a whole a bit more elegant and precise. 
+I've spent the first 4-5 weeks of the course trying to get a grasp on the concepts of TDD, through self learning, getting feedback from colleagues and coaches.<br>
+Katerina's feedback on testing behaviour vs. state in week 3 made testing as a whole a bit more elegant and precise. <br>
 Nikhil Vijayan on Acebook group project: "I can't thank you enough for your help on testing and debugging, specifically your research on testing controllers was key in unblocking us."
 
 ## I can program fluently<a name="program-fluently" />
+
+### What does it mean to be able to program fluently?
+
+This means that I am comfortable solving a problem and translating it into a computer language. Also to be agile in moving between the states of writing code and solving problems that may arise while doing so.
+
+### Example repos:<br>
+[Airport challenge in Javascript](https://github.com/dangroze/airport_challenge_js.git)
+
+Airport challenge in JS was the first app I did outside of Ruby. Despite the fact that I've used a new language and testing framework, it was relatively easy to understand. Having applied strict TDD and by following the red-green-refactor process, I felt comfortable in a new environment.
