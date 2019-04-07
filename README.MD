@@ -19,9 +19,9 @@
 
 ## I can TDD anything<a name="tdd-anything" />
 
-### What does it mean to be able to TDD anything?
+### What does it mean to be able to do this?
 
-To be able to do this means to have a clear process, which starts with planning. I have to fully understand what I'm building, before writing any code. This includes:
+This means to have a clear process, which starts with planning. I have to fully understand what I'm building, before writing any code. This includes:
 1. Write the user stories if they have not been provided already
 2. Create a diagram of the classes, properties and functions needed for the first feature
 3. To follow the red, green, refactor cycle:<br>
@@ -34,8 +34,8 @@ To be able to do this means to have a clear process, which starts with planning.
 `Refactor phase`
 - Refactor code without adding new features
 - Run tests again to check that the refactoring did not break the tests
-6. No code should be written unless if it is to make a failing unit test pass
-7. Unit tests should be specific and precise<br>
+4. No code should be written unless if it is to make a failing unit test pass
+5. Unit tests should be specific and precise<br>
 
 Throughout Makers I have used a number of different testing frameworks and I am comfortable working with them: RSpec, Capybara, Jasmine, Cypress, etc.<br>
 ### Example repos:<br>
@@ -54,9 +54,9 @@ Nikhil Vijayan on Acebook group project: "I can't thank you enough for your help
 
 ## I can program fluently<a name="program-fluently" />
 
-### What does it mean to be able to program fluently?
+### What does it mean to be able to do this?
 
-This means that I am comfortable solving a problem and translating it into a computer language. Also to be agile in moving between the states of writing code and solving problems that may arise while doing so.
+This means that I am comfortable solving a problem and translating it into a computer language. Also to be agile in moving between the states of writing code and fixing problems that may arise while doing so.
 
 ### Example repos:<br>
 [Airport challenge in Javascript](https://github.com/dangroze/airport_challenge_js.git)
@@ -75,3 +75,13 @@ Here I've used dependency injection and delegation, this was a really interestin
 
 Sam J said on Bowling that this was a good go at the challenge, objects have clear responsibilities and looks well tested.
 
+## I can debug anything<a name="debug-anything" />
+
+# What does it mean to be able to do this?
+
+This means to have a clear process, a process that can be applied in any language or technology used, and stick to it. I've come to realise that you can't stay blocked forever. Each and every bug can be resolved, there is a good chance that someone in this world came across the same thing while programming, you just have to know where to look and how to explain the problem to someone else. My process includes following strict TDD, as explained earlier, then if an error message occurs:
+1. Read and understand the error message
+2. Follow the stack trace
+3. Get more visibility ( irb, p, console.log(), etc )
+4. Identify where the problem is
+5. Use current knowledge and available tools ( google, StackOverflow, friends' advice, etc ) to fix it
