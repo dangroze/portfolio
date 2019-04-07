@@ -85,3 +85,12 @@ This means to have a clear process, a process that can be applied in any languag
 3. Get more visibility ( irb, p, console.log(), etc )
 4. Identify where the problem is
 5. Use current knowledge and available tools ( google, StackOverflow, friends' advice, etc ) to fix it
+
+### Example repos:
+
+[Week 3 Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2)
+
+This week's exercise was resolved using a methodical approach and a thorough process:
+- Tightened the loop by looking at each test separately
+- When the error message and stack trace were not conclusive and descriptive enough, sinatra gave me more clues
+
