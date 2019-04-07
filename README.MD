@@ -94,3 +94,10 @@ This week's exercise was resolved using a methodical approach and a thorough pro
 - Tightened the loop by looking at each test separately
 - When the error message and stack trace were not conclusive and descriptive enough, sinatra gave me more clues
 
+[Acebook group project](https://github.com/dangroze/acebook-team-name-undefined)
+
+Having chosen a technology that we haven't used before, when we got to testing, we thought we were in over our heads. With extensive research and lots of trial and error, tightening the loop and gaining visibility, our tests were finally green.
+
+### Feedback
+
+From Nikhil: "Your methodical approach in testing our controllers, and patiently checking each variable was great to experience."
