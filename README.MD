@@ -113,3 +113,9 @@ Being able to model anything is the process of breaking down a system, and repre
 
 When building applications, I have always found modeling and diagramming to be very useful, they are now part of my process. I am a visual learner, so having a clear image of the task is important to me.
 
+### Example repos
+[Airport challenge in ruby](https://github.com/dangroze/airport_challenge_ruby)
+This minimalistic diagram is a good example of the utility of modelling as it leads the construction of the app, the structure of objects and their responsibilities.
+
+[Takeaway challenge](https://github.com/dangroze/takeaway-challenge)
+Here the diagram displays each class with its methods. The flow of actions can be clearly seen, good tool to help me model my thought process.
