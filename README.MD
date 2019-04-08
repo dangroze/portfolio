@@ -101,3 +101,15 @@ Having chosen a technology that we haven't used before, when we got to testing, 
 ### Feedback
 
 From Nikhil: "Your methodical approach in testing our controllers, and patiently checking each variable was great to experience."
+
+Alice on debugging workshop: "Good understanding of the error messages. Well done!"
+
+Adrien Fabre: "We did debugging together on the What Zen project and I found that he was very good at following the flow of the code, he was able to express clearly that some expected behaviour was not right and he was asking very relevant questions that helped us move forward."
+
+# I can model anything<a name="model-anything" />
+
+## What does it mean to be able to do this?
+Being able to model anything is the process of breaking down a system, and represent it as a graphic ecosystem with all the parts that are interacting with each other. Modelling, or diagramming in a programming language context helps with adhering to the encapsulation and single responsibility principle of objects.
+
+When building applications, I have always found modeling and diagramming to be very useful, they are now part of my process. I am a visual learner, so having a clear image of the task is important to me.
+
