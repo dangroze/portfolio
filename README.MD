@@ -129,3 +129,15 @@ A few guidlines I use when refactoring:
 - Make the code cleaner, more readable for any other developers who might want to use the app
 - Rename methods for clearness
 - Encapsulation(combining data and methods into one unit or class) and delegation of concerns
+
+### Example repos
+
+[Oystercard](https://github.com/dangroze/oystercard)<br>
+This challenge helped me get to grips with refactoring and it gave me the guidlines for extracting a class from another one. In order to do this, I've developed a process which starts with diagramming the current class and the encapsulated class. Then I draw arrows pointing from which methods I want to move from the current class to the other. After that, I implement it and refactor so that the tests pass.
+
+[Bowling challenge](https://github.com/dangroze/bowling_challenge)<br>
+Here I had to refactor my app so that the back end would match the front end. This was not an easy task at first, but after a few trial and error cycles, I managed to make it work. This is highlighted in this [commit](https://github.com/dangroze/bowling_challenge/commit/fb973950b667fd5066809b726a09c3313ac5537e).
+
+### Feedback
+
+
