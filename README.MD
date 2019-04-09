@@ -153,3 +153,12 @@ My process of problem solving consists of:
 - Ask a friend for advice
 - Can I solve it right away? Do it. If not, go to next step
 - Break it down into smaller problems and tackle them each one by one
+
+### Example repos
+
+[Rock Paper Scissors](https://github.com/dangroze/rps-challenge/tree/master/lib)<br>
+Here my thought process was as follows: A player could roll rock, paper or scissors and play vs a computer which will choose one of the weapons at random and a winner will be declared.<br>
+I solved this by breaking the system down into objects with a single responsibility, so 3 classes were created, player, computer and game.
+
+### Feedback
+
