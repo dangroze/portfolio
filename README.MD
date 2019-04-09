@@ -59,16 +59,13 @@ Nikhil Vijayan on Acebook group project: "I can't thank you enough for your help
 This means that I am comfortable solving a problem and translating it into a computer language. Also to be agile in moving between the states of writing code and fixing problems that may arise while doing so.
 
 ### Example repos:<br>
-[Airport challenge in Javascript](https://github.com/dangroze/airport_challenge_js.git)
-
+[Airport challenge in Javascript](https://github.com/dangroze/airport_challenge_js.git)<br>
 Airport challenge in JS was the first app I did outside of Ruby. Despite the fact that I've used a new language and testing framework, it was relatively easy to understand. Having applied strict TDD and by following the red-green-refactor process, I felt comfortable in a new environment.
 
-[Chitter challenge](https://github.com/dangroze/chitter_challenge)
-
+[Chitter challenge](https://github.com/dangroze/chitter_challenge)<br>
 In this weekend project I've applied the knowledge acquired during the week to build a functional CRUD app, comprehensively tested.
 
-[Bank tech test](https://github.com/dangroze/bank_tech_test.git)
-
+[Bank tech test](https://github.com/dangroze/bank_tech_test.git)<br>
 Here I've used dependency injection and delegation, this was a really interesting mini-challenge, all the requirements have been met using TDD, which can be seen in the frequent commits.
 
 ### Feedback
@@ -88,14 +85,12 @@ This means to have a clear process, a process that can be applied in any languag
 
 ### Example repos:
 
-[Week 3 Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2)
-
+[Week 3 Debugging 2](https://github.com/makersacademy/skills-workshops/tree/master/week-3/debugging_2)<br>
 This week's exercise was resolved using a methodical approach and a thorough process:
 - Tightened the loop by looking at each test separately
 - When the error message and stack trace were not conclusive and descriptive enough, sinatra gave me more clues
 
-[Acebook group project](https://github.com/dangroze/acebook-team-name-undefined)
-
+[Acebook group project](https://github.com/dangroze/acebook-team-name-undefined)<br>
 Having chosen a technology that we haven't used before, when we got to testing, we thought we were in over our heads. With extensive research and lots of trial and error, tightening the loop and gaining visibility, our tests were finally green.
 
 ### Feedback
@@ -114,8 +109,23 @@ Being able to model anything is the process of breaking down a system, and repre
 When building applications, I have always found modeling and diagramming to be very useful, they are now part of my process. I am a visual learner, so having a clear image of the task is important to me.
 
 ### Example repos
-[Airport challenge in ruby](https://github.com/dangroze/airport_challenge_ruby)
+[Airport challenge in ruby](https://github.com/dangroze/airport_challenge_ruby)<br>
 This minimalistic diagram is a good example of the utility of modelling as it leads the construction of the app, the structure of objects and their responsibilities.
 
-[Takeaway challenge](https://github.com/dangroze/takeaway-challenge)
+[Takeaway challenge](https://github.com/dangroze/takeaway-challenge)<br>
 Here the diagram displays each class with its methods. The flow of actions can be clearly seen, good tool to help me model my thought process.
+
+### Feedback
+
+
+
+# I can refactor anything<a name="refactor-anything" />
+
+## What does it mean to be able to do this?
+
+Refactoring means to change the existing code, without changing its behaviour(no added functionality). It means to make sure that the code adheres to the SOLID and DRY principles.
+
+A few guidlines I use when refactoring:
+- Make the code cleaner, more readable for any other developers who might want to use the app
+- Rename methods for clearness
+- Encapsulation(combining data and methods into one unit or class) and delegation of concerns
