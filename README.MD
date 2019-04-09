@@ -141,3 +141,15 @@ Here I had to refactor my app so that the back end would match the front end. Th
 ### Feedback
 
 
+
+# I have a methodical approach to solving problems<a name="methodical-approach" />
+
+## What does it mean to be able to do this?
+
+My approach/process has improved so much since being a student at Makers. I was always impulsive and whenever a problem arose, I always dove head first into it. Now I take a step back, analyze the situation and plan a lot before I start implementing.<br>
+My process of problem solving consists of:
+- Make sure I understand the problem
+- If something is not clear about it, I read documentations and other resources
+- Ask a friend for advice
+- Can I solve it right away? Do it. If not, go to next step
+- Break it down into smaller problems and tackle them each one by one
