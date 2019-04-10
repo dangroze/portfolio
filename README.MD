@@ -189,3 +189,16 @@ This is our Makers final project, where we made sure we used the agile process t
 Although we picked several technologies that none of us used before, our excellent communication and team dynamic helped us deliver an awesome app.
 
 ### Feedback
+
+
+## I write code that is easy to change<a name="easy-to-change" />
+
+### What does it mean to be able to do this?
+
+Having the ability to write easy to change code is very important for a developer at any stage, and I think that's why our coaches enforced this throughout the course. I believe this will be even more important when working in a big company with large code bases.<br>
+When writing code I have the following principles in mind:
+- Dependency injection: What this does is providing the objects that an object needs (its dependencies) instead of having it construct them itself. It's a very useful technique for testing, since it allows dependencies to be mocked or stubbed out.
+- Single responsibility principle: Every object should have responsibility over a single part of functionality.
+- Encapsulation: as mentioned before, the less each object knows about the others, the better since they will depend less on them. As explained in the refactoring goal, whenever possible, I delegate internal behaviour to private functions, use setter methods instead of giving multiple objects access to another object’s properties, etc.
+- Naming functions and objects properly: this makes the code easier to change 
+
