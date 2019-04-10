@@ -173,3 +173,13 @@ Katerina gave me some very useful feedback when doing the process workshop which
 The agile process is a repetitive, incremental approach to developing software. It focuses on teamwork, communication between peers and lots of planning.<br>
 I came to appreciate the agile process a lot, it just makes sense when working in a team to have everyone on the same page, for everyone to take code ownership and to feel like they have a set role in the project.
 
+### Example repos
+
+[Acebook](https://github.com/dangroze/acebook-team-name-undefined)<br>
+During this group project we really put our agile skills to use:
+- We've had standups every morning and evening
+- We used a sprint driven development. We've had 2-day sprints and managed to deliver our MVP by the end of day 3
+- Retrospective at the end of each sprint
+- We used a trello board to organize our sprints
+- Worked in pairs for the whole duration of the project
+- Our pull requests had to be reviewed by 2 other members
