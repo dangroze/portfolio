@@ -202,3 +202,12 @@ When writing code I have the following principles in mind:
 - Encapsulation: as mentioned before, the less each object knows about the others, the better since they will depend less on them. As explained in the refactoring goal, whenever possible, I delegate internal behaviour to private functions, use setter methods instead of giving multiple objects access to another object’s properties, etc.
 - Naming functions and objects properly: this makes the code easier to change 
 
+### Example repos
+
+[Chitter](https://github.com/dangroze/chitter_challenge)<br>
+Each unit was fully isolated, including the associated tests, through the use of mocking and dependency injection, which we had learned during the week.
+
+[Bowling](https://github.com/dangroze/bowling-challenge_forked)<br>
+I had to refactor some code in order for the back end to match with the front end, so having adhered to the above principles, it was pretty straight-forward to do.
+
+### Feedback
