@@ -74,7 +74,7 @@ Sam J said on Bowling that this was a good go at the challenge, objects have cle
 
 ## I can debug anything<a name="debug-anything" />
 
-# What does it mean to be able to do this?
+### What does it mean to be able to do this?
 
 This means to have a clear process, a process that can be applied in any language or technology used, and stick to it. I've come to realise that you can't stay blocked forever. Each and every bug can be resolved, there is a good chance that someone in this world came across the same thing while programming, you just have to know where to look and how to explain the problem to someone else. My process includes following strict TDD, as explained earlier, then if an error message occurs:
 1. Read and understand the error message
@@ -103,7 +103,7 @@ Adrien Fabre: "We did debugging together on the What Zen project and I found tha
 
 # I can model anything<a name="model-anything" />
 
-## What does it mean to be able to do this?
+### What does it mean to be able to do this?
 Being able to model anything is the process of breaking down a system, and represent it as a graphic ecosystem with all the parts that are interacting with each other. Modelling, or diagramming in a programming language context helps with adhering to the encapsulation and single responsibility principle of objects.
 
 When building applications, I have always found modeling and diagramming to be very useful, they are now part of my process. I am a visual learner, so having a clear image of the task is important to me.
@@ -121,7 +121,7 @@ Here the diagram displays each class with its methods. The flow of actions can b
 
 # I can refactor anything<a name="refactor-anything" />
 
-## What does it mean to be able to do this?
+### What does it mean to be able to do this?
 
 Refactoring means to change the existing code, without changing its behaviour(no added functionality). It means to make sure that the code adheres to the SOLID and DRY principles.
 
@@ -144,7 +144,7 @@ Here I had to refactor my app so that the back end would match the front end. Th
 
 # I have a methodical approach to solving problems<a name="methodical-approach" />
 
-## What does it mean to be able to do this?
+### What does it mean to be able to do this?
 
 My approach/process has improved so much since being a student at Makers. I was always impulsive and whenever a problem arose, I always dove head first into it. Now I take a step back, analyze the situation and plan a lot before I start implementing.<br>
 My process of problem solving consists of:
@@ -161,4 +161,15 @@ Here my thought process was as follows: A player could roll rock, paper or sciss
 I solved this by breaking the system down into objects with a single responsibility, so 3 classes were created, player, computer and game.
 
 ### Feedback
+
+Katerina gave me some very useful feedback when doing the process workshop which was to spend more time planning in order to have a general idea of what to implement and how to go about it.
+
+# I help my teams succeed<a name="teams-succeed" />
+
+## I use an agile product development process<a name="agile-process" />
+
+### What does it mean to be able to do this?
+
+The agile process is a repetitive, incremental approach to developing software. It focuses on teamwork, communication between peers and lots of planning.<br>
+I came to appreciate the agile process a lot, it just makes sense when working in a team to have everyone on the same page, for everyone to take code ownership and to feel like they have a set role in the project.
 
