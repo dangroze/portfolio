@@ -183,3 +183,9 @@ During this group project we really put our agile skills to use:
 - We used a trello board to organize our sprints
 - Worked in pairs for the whole duration of the project
 - Our pull requests had to be reviewed by 2 other members
+
+[What Zen](https://github.com/dangroze/what-zen-app)<br>
+This is our Makers final project, where we made sure we used the agile process to the maximum. Just as with Acebook, we had standups every start and end of day, 2 day sprints and retros at the end of each sprint. We ensured that everyone was up to speed with the progress any one of us made.<br>
+Although we picked several technologies that none of us used before, our excellent communication and team dynamic helped us deliver an awesome app.
+
+### Feedback
