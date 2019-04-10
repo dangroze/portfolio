@@ -223,3 +223,11 @@ This means that you can communicate clearly to your team your approach and how y
 
 [Acebook](https://github.com/dangroze/acebook-team-name-undefined)<br>
 During this group project I suggested to my team that we should use the Devise gem in order to rapidly implement the user authentication and that the gem would build all the scaffolds that go around it, including password encryption. The team thought this was a good idea and it saved us critical time.
+
+[What Zen](https://github.com/dangroze/what-zen-app)
+In our final project, I've communicated to my team that we should choose a project that we could all be passionate about and suggested that we could build a Task Manager using technologies that we haven't used before. This would exercise our ability to learn.
+
+### Feedback
+
+
+We decided as a group that this project was a good opportunity to explore and learn a new technology, so we chose Ruby-on-rails. 
