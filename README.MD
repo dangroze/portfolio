@@ -9,7 +9,7 @@
 * [I help my teams succeed](#teams-succeed)
     * [I use an agile product development process](#agile-process)
     * [I write code that is easy to change](#easy-to-change)
-    * [I can justify the way I work in a business context](#buisness-context)
+    * [I can justify the way I work in a business context](#business-context)
     * [I can grow collaboratively](#grow-collaboratively)
 * [I am equipped for long term growth](#longterm-growth)
     * [I manage my own well-being](#well-being)
@@ -211,3 +211,15 @@ Each unit was fully isolated, including the associated tests, through the use of
 I had to refactor some code in order for the back end to match with the front end, so having adhered to the above principles, it was pretty straight-forward to do.
 
 ### Feedback
+
+
+## I can justify the way I work in a business context<a name="business-context" />
+
+### What does it mean to be able to do this?
+
+This means that you can communicate clearly to your team your approach and how you want to go about doing it. If you have a different, better idea than what was previously suggested, then explain the advantages of going with it.
+
+### Example repos
+
+[Acebook](https://github.com/dangroze/acebook-team-name-undefined)<br>
+During this group project I suggested to my team that we should use the Devise gem in order to rapidly implement the user authentication and that the gem would build all the scaffolds that go around it, including password encryption. The team thought this was a good idea and it saved us critical time.
