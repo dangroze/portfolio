@@ -273,3 +273,9 @@ To learn anything by myself means to have the ability to pick up something new a
 
 [What Zen](https://github.com/dangroze/what-zen-app)<br>
 In our final project we decided as a group that this was a good opportunity to explore and learn new technologies, which was scary at first, because of the short timeframe, but by splitting responsibilities between team members and filling each other in, thus making sure we were all on the same page, we managed to build this great app.
+[Catch of the day](https://github.com/dangroze/catch-of-the-day-react)<br>
+Here is an example where I've learned a bit more about React, in order to help me with my final project. I've learned the basics about components, state, props, JSX, etc.
+
+### Feedback
+
+Adrien Fabre on the final project: "Working directly with Dan, I was that he was very focused, we've spent time to explore and learn a technology we haven't used before. With a clear goal, balancing this movement of focus and learning carefully, we succeeded to learn and implement new features at the same time. He was very good at maintaining high productivity work."
