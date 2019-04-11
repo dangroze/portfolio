@@ -239,3 +239,7 @@ From the time I've spent at Makers and after talking to a few IT professionals I
 I've learned how to give constructive feedback and also how to receive it, I've learned not to take it personal, because 99% of the time feedback is benefitting the receiver.<br>
 I love working with others and doing so with such a wide variety of people at Makers has enriched my knowledge and communication skills by a lot.
 
+### Feedback
+
+From Nikhil: "I really enjoyed working with you. You're the perfect team player and you're able to effortlessly switch between supporting the driver, or quickly researching new techniques we could use. Having spent 3 difficult days debugging controller tests on the Acebook project, I really appreciate the support and let's not forget about the tips on getting better at table tennis."
+
