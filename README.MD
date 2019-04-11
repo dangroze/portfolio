@@ -140,6 +140,7 @@ Here I had to refactor my app so that the back end would match the front end. Th
 
 ### Feedback
 
+Sophie said on Bank Test that I can clearly use the SOLID principles to improve the readability and design of the code.
 From J.Park: "I had the pleasure of working with Dan during the MakersBnB week. It was our first time using Ruby on Rails and needless to say our initial code was quite all over the place. Dan's growth in his refactoring skills over the past few weeks clearly shone through when he utilised aspects of polymorphism to refactor some of our controller functions to execute the appropriate actions based on the user_ids which are sent through session objects without breaking the single responsibility principle."
 
 # I have a methodical approach to solving problems<a name="methodical-approach" />
@@ -224,7 +225,7 @@ This means that you can communicate clearly to your team your approach and how y
 [Acebook](https://github.com/dangroze/acebook-team-name-undefined)<br>
 During this group project I suggested to my team that we should use the Devise gem in order to rapidly implement the user authentication and that the gem would build all the scaffolds that go around it, including password encryption. The team thought this was a good idea and it saved us critical time.
 
-[What Zen](https://github.com/dangroze/what-zen-app)
+[What Zen](https://github.com/dangroze/what-zen-app)<br>
 In our final project, I've communicated to my team that we should choose a project that we could all be passionate about and suggested that we could build a Task Manager using technologies that we haven't used before. This would exercise our ability to learn.
 
 ### Feedback
@@ -266,6 +267,9 @@ Luca said when watching me play an intense table tennis match that it was the fi
 
 ### What does this mean?
 
+To learn anything by myself means to have the ability to pick up something new and become comfortable and fluid in using it. This means to know what keywords to use when utilising a search engine, where to look for documentation(most of the time the official docs provide the best answers) and most importantly to utilise the current knowledge, applying the same process. I generally believe that you can learn anything on your own, it's not hard, it's new, but of course, never underestimate advice/help from someone who is already an expert. 
 
+### Example repos
 
-We decided as a group that this project was a good opportunity to explore and learn a new technology, so we chose Ruby-on-rails. 
+[What Zen](https://github.com/dangroze/what-zen-app)<br>
+In our final project we decided as a group that this was a good opportunity to explore and learn new technologies, which was scary at first, because of the short timeframe, but by splitting responsibilities between team members and filling each other in, thus making sure we were all on the same page, we managed to build this great app.
