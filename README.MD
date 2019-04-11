@@ -229,7 +229,7 @@ In our final project, I've communicated to my team that we should choose a proje
 
 ### Feedback
 
-
+Adrien Fabre on final project: "I really appreciated how Dan was eager to learn and to contribute to different aspects of the project. I could see that during our standups and retros he was clear about what was right for him and he shared his ideas clearly while he was letting everyone space to express their ideas, too."
 
 ## I can grow collaboratively<a name="grow-collaboratively" />
 
@@ -255,4 +255,7 @@ A few habits and rituals I try to maintain for my well being:
 - Always have a project to work on. This is important to me, because I like improving and progressing every day, and it's a good habit to have.
 - Take time off. Having a separation between work and leisure is the key factor in overall happiness and well being. Specially for me, because I tend to be a bit obsessive about something once I set my mind on that. So when I feel like I've worked too much, I just take a day off, even two, without doing anything work related. This recharges my batteries and prepares me to go at again with a clear mind.
 - Play. I like sports and the ocasional video game. During the 3 months I've spent at Makers, I played table tennis almost every day. It's such a good way to refresh the mind and take a break, and it's a social activity as well, I've made quite a few friends.
+
+### Feedback
+
 
