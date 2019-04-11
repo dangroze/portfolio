@@ -230,4 +230,12 @@ In our final project, I've communicated to my team that we should choose a proje
 ### Feedback
 
 
-We decided as a group that this project was a good opportunity to explore and learn a new technology, so we chose Ruby-on-rails. 
+
+## I can grow collaboratively<a name="grow-collaboratively" />
+
+### What does it mean to be able to do this?
+
+From the time I've spent at Makers and after talking to a few IT professionals I came to realise that most of a developer's work will be done in teams. Apparently pairing is widely practiced within IT firms, which is why I'm grateful that this has been heavily emphasised during the course.<br>
+I've learned how to give constructive feedback and also how to receive it, I've learned not to take it personal, because 99% of the time feedback is benefitting the receiver.<br>
+I love working with others and doing so with such a wide variety of people at Makers has enriched my knowledge and communication skills by a lot.
+
