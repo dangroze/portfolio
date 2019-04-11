@@ -157,7 +157,7 @@ My process of problem solving consists of:
 
 ### Example repos
 
-[Rock Paper Scissors](https://github.com/dangroze/rps-challenge/tree/master/lib)<br>
+[Rock Paper Scissors](https://github.com/dangroze/rps-challenge)<br>
 Here my thought process was as follows: A player could roll rock, paper or scissors and play vs a computer which will choose one of the weapons at random and a winner will be declared.<br>
 I solved this by breaking the system down into objects with a single responsibility, so 3 classes were created, player, computer and game.
 
@@ -272,9 +272,11 @@ To learn anything by myself means to have the ability to pick up something new a
 ### Example repos
 
 [What Zen](https://github.com/dangroze/what-zen-app)<br>
-In our final project we decided as a group that this was a good opportunity to explore and learn new technologies, which was scary at first, because of the short timeframe, but by splitting responsibilities between team members and filling each other in, thus making sure we were all on the same page, we managed to build this great app.
+In our final project we decided as a group that this was a good opportunity to explore and learn new technologies, which was scary at first, because of the short timeframe, but by splitting responsibilities between team members and filling each other in, thus making sure we were all on the same page, we managed to build this great app.<br>
 [Catch of the day](https://github.com/dangroze/catch-of-the-day-react)<br>
-Here is an example where I've learned a bit more about React, in order to help me with my final project. I've learned the basics about components, state, props, JSX, etc.
+Here is an example where I've learned a bit more about React, in order to help me with my final project. I've learned the basics about components, state, props, JSX, etc.<br>
+[Rock Paper Scissors](https://github.com/dangroze/rps-challenge)<br>
+Here I've learned how to use heroku for app deployment.
 
 ### Feedback
 
