@@ -258,6 +258,8 @@ A few habits and rituals I try to maintain for my well being:
 
 ### Feedback
 
+Jake Atkin: "I love that you are always in such a good mood, that it's contageous. It always feels good to be around you, you always seem to be focused and positive."
+Luca said when watching me play an intense table tennis match that it was the first time he's seen me without smiling, he jokingly said that the determined look on my face was almost scary to watch.
 
 
 ## I can learn anything by myself<a name="learn-anything" />
