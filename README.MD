@@ -243,3 +243,16 @@ I love working with others and doing so with such a wide variety of people at Ma
 
 From Nikhil: "I really enjoyed working with you. You're the perfect team player and you're able to effortlessly switch between supporting the driver, or quickly researching new techniques we could use. Having spent 3 difficult days debugging controller tests on the Acebook project, I really appreciate the support and let's not forget about the tips on getting better at table tennis."
 
+# I am equipped for long term growth<a name="longterm-growth" />
+
+## I manage my own well being<a name="well-being" />
+
+### What does this mean?
+
+In my perspective this has everything to do with a balanced life. Being an extremist, I always either work a lot or not at all, so being able to balance the two makes the difference between having a healthy mind and body or not.<br>
+A few habits and rituals I try to maintain for my well being:
+- Exercise is an important factor in someone's overall condition, so I made a conscious decision to cycle everyday to work and basically everywhere. In addition to that, I lift weights every once in a while, not for a vanity reason, but because it just makes me feel good.
+- Always have a project to work on. This is important to me, because I like improving and progressing every day, and it's a good habit to have.
+- Take time off. Having a separation between work and leisure is the key factor in overall happiness and well being. Specially for me, because I tend to be a bit obsessive about something once I set my mind on that. So when I feel like I've worked too much, I just take a day off, even two, without doing anything work related. This recharges my batteries and prepares me to go at again with a clear mind.
+- Play. I like sports and the ocasional video game. During the 3 months I've spent at Makers, I played table tennis almost every day. It's such a good way to refresh the mind and take a break, and it's a social activity as well, I've made quite a few friends.
+
