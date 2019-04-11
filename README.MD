@@ -140,7 +140,7 @@ Here I had to refactor my app so that the back end would match the front end. Th
 
 ### Feedback
 
-
+From J.Park: "I had the pleasure of working with Dan during the MakersBnB week. It was our first time using Ruby on Rails and needless to say our initial code was quite all over the place. Dan's growth in his refactoring skills over the past few weeks clearly shone through when he utilised aspects of polymorphism to refactor some of our controller functions to execute the appropriate actions based on the user_ids which are sent through session objects without breaking the single responsibility principle."
 
 # I have a methodical approach to solving problems<a name="methodical-approach" />
 
