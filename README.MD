@@ -117,7 +117,7 @@ Here the diagram displays each class with its methods. The flow of actions can b
 
 ### Feedback
 
-
+From J. Park: "I was pairing with Dan during the Oyster Card week and we came across some difficulty whilst carrying out encapsulation and abstraction practices. After a few minutes of trying to hack our way through Dan took a step back and suggested we re-model our code based on the changes that we made across the steps we worked together on through a basic domain model diagram. This simple action immediately allowed us to get a better picture on how our code was working and which dependencies needed some refactoring and allowed us to successfully move on to the next step."
 
 # I can refactor anything<a name="refactor-anything" />
 
@@ -259,3 +259,11 @@ A few habits and rituals I try to maintain for my well being:
 ### Feedback
 
 
+
+## I can learn anything by myself<a name="learn-anything" />
+
+### What does this mean?
+
+
+
+We decided as a group that this project was a good opportunity to explore and learn a new technology, so we chose Ruby-on-rails. 
