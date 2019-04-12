@@ -213,6 +213,7 @@ I had to refactor some code in order for the back end to match with the front en
 
 ### Feedback
 
+From Sherif Shendidy: "I worked with Dan Groze on 2 projects, Makers B&B and on the final project What-Zen, on both projects Dan should great skills when it can to writing a clean and easy to read code that can easily be changed when the project requirements change."
 
 ## I can justify the way I work in a business context<a name="business-context" />
 
