@@ -191,6 +191,7 @@ Although we picked several technologies that none of us used before, our excelle
 
 ### Feedback
 
+From Sherif Shendidy: "During our final project, What-Zen, Dan was strictly committed to following an agile process, where we had stand ups twice a day to discuss each one’s progress with the task in hand, and to make sure our objectives and following tasks are clear. During those stand ups, Dan had very clear and organised thoughts and managed to contribute to the team with very constructive ideas and his contribution definitely helped us deliver the final project on time. It was a real pleasure working with him."
 
 ## I write code that is easy to change<a name="easy-to-change" />
 
