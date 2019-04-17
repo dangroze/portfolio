@@ -39,6 +39,9 @@ This means to have a clear process, which starts with planning. I have to fully 
 
 Throughout Makers I have used a number of different testing frameworks and I am comfortable working with them: RSpec, Capybara, Jasmine, Cypress, etc.<br>
 ### Example repos:<br>
+[Airport Challenge](https://github.com/dangroze/airport_challenge_ruby)<br>
+This first weekend project set the tone of the following challenges because here I've learnt how to use doubles, stubbing and mocking and got to grips with the concepts of unit and feature tests.
+
 [Takeaway Challenge](https://github.com/dangroze/takeaway-challenge)<br>
 - Test frameworks: RSpec, SimpleCov
 - Here I've learned how to use stack trace to guide me through, had 92% test coverage.<br>
@@ -49,7 +52,9 @@ Throughout Makers I have used a number of different testing frameworks and I am 
 ### Feedback
 
 I've spent the first 4-5 weeks of the course trying to get a grasp on the concepts of TDD, through self learning, getting feedback from colleagues and coaches.<br>
+
 Katerina's feedback on testing behaviour vs. state in week 3 made testing as a whole a bit more elegant and precise. <br>
+
 Nikhil Vijayan on Acebook group project: "I can't thank you enough for your help on testing and debugging, specifically your research on testing controllers was key in unblocking us."
 
 ## I can program fluently<a name="program-fluently" />
