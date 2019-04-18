@@ -98,6 +98,8 @@ This week's exercise was resolved using a methodical approach and a thorough pro
 [Acebook group project](https://github.com/dangroze/acebook-team-name-undefined)<br>
 Having chosen a technology that we haven't used before, when we got to testing, we thought we were in over our heads. With extensive research and lots of trial and error, tightening the loop and gaining visibility, our tests were finally green.
 
+[Quiz Tech Test](https://www.youtube.com/watch?v=M7HyzBaxBmo&t=934s)<br>
+This was the Maker’s week 10 process review. I want to showcase this example where, under pressure, I've navigated through bugs and error messages, and I've methodically worked them out.
 ### Feedback
 
 From Nikhil: "Your methodical approach in testing our controllers, and patiently checking each variable was great to experience."
