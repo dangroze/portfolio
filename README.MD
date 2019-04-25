@@ -40,7 +40,7 @@ This means to have a clear process, which starts with planning. I have to fully 
 Throughout Makers I have used a number of different testing frameworks and I am comfortable working with them: RSpec, Capybara, Jasmine, Cypress, etc.<br>
 ### Example repos:<br>
 [Airport Challenge](https://github.com/dangroze/airport_challenge_ruby)<br>
-This first weekend project set the tone of the following challenges because here I've learnt how to use doubles, stubbing and mocking and got to grips with the concepts of unit and feature tests.
+This first weekend project set the tone of the following challenges because here I've learnt how to use doubles, stubbing and mocking and got to grips with the concepts of unit and feature tests. From google searches and asking lots of questions to coaches and colleagues, I've come to the realisation that unit tests make sure that each unit functions correctly in isolation, meaning that if every part does its job like intended, it will be easy to concatenate units together. Feature tests make sure that the system is functioning as the user expects it to. Unit tests are written from the perspective of the programmer, while feature tests are from the perspective of the user.
 
 [Takeaway Challenge](https://github.com/dangroze/takeaway-challenge)<br>
 - Test frameworks: RSpec, SimpleCov
