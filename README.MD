@@ -61,7 +61,8 @@ Nikhil Vijayan on Acebook group project: "I can't thank you enough for your help
 
 ### What does it mean to be able to do this?
 
-This means that I am comfortable solving a problem and translating it into a computer language. Also to be agile in moving between the states of writing code and fixing problems that may arise while doing so.
+This means that I am comfortable solving a problem and translating it into a computer language. Also to be agile in moving between the states of writing code and fixing problems that may arise while doing so. Fluency in this instance means to either read a code base and understand the inner workings of the program, what each class and method is trying to achieve. Carrying on from being able to read a codebase you should be able to create a function or achieve the outcome of the application in a structurally correct manner without any major stumbles. This means when changing between languages being able to recall each languages structures and functions.
+
 
 ### Example repos:<br>
 [Airport challenge in Javascript](https://github.com/dangroze/airport_challenge_js.git)<br>
