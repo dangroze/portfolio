@@ -114,7 +114,7 @@ Adrien Fabre: "We did debugging together on the What Zen project and I found tha
 ### What does it mean to be able to do this?
 Being able to model anything is the process of breaking down a system, and represent it as a graphic ecosystem with all the parts that are interacting with each other. Modelling, or diagramming in a programming language context helps with adhering to the encapsulation and single responsibility principle of objects.
 
-When building applications, I have always found modeling and diagramming to be very useful, they are now part of my process. I am a visual learner, so having a clear image of the task is important to me.
+When building applications, I have always found modeling and diagramming to be very useful, they are now part of my process. I am a visual learner, so having a clear image of the task is important to me. I always start tackling a problem by trying my best to understand it, either drawing a quick diagram, writing up user stories when needed, or just mentally visualizing the requirements and how would I go about solving it.
 
 ### Example repos
 [Airport challenge in ruby](https://github.com/dangroze/airport_challenge_ruby)<br>
